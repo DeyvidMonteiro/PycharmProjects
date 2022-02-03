@@ -1,0 +1,8 @@
+José;35
+Gustavo;41
+Deyvid;24
+Sandra;51
+maria;85
+Monteirp;48
+silva;12
+dog;6
